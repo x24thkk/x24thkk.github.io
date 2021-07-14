@@ -3,11 +3,11 @@
   <title>xu&#39;s Blog</title>
   
   <subtitle>x24thkk</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://x24thkk.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://x24thkk.github.io/"/>
   <updated>2021-07-14T07:02:20.573Z</updated>
-  <id>http://example.com/</id>
+  <id>http://x24thkk.github.io/</id>
   
   <author>
     <name>x24thkk</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>introduction</title>
-    <link href="http://example.com/2021/07/14/introduction/"/>
-    <id>http://example.com/2021/07/14/introduction/</id>
+    <link href="http://x24thkk.github.io/2021/07/14/introduction/"/>
+    <id>http://x24thkk.github.io/2021/07/14/introduction/</id>
     <published>2021-07-14T07:00:00.000Z</published>
     <updated>2021-07-14T07:02:20.573Z</updated>
     
