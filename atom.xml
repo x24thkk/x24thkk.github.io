@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xu&#39;s Blog</title>
+  
+  <subtitle>x24thkk</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-07-14T07:02:20.573Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>x24thkk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>introduction</title>
+    <link href="http://example.com/2021/07/14/introduction/"/>
+    <id>http://example.com/2021/07/14/introduction/</id>
+    <published>2021-07-14T07:00:00.000Z</published>
+    <updated>2021-07-14T07:02:20.573Z</updated>
+    
+    <content type="html"><![CDATA[<p>​嘿，欢迎来到小徐的博客！</p><p>​我猜你不知道我是做什么的，嘿嘿！</p><p>​让我来告诉你，我是一名XXX，致力于拯救宇宙，保护世界万千美少女，那么现在你一定知道我是睡咯。</p><p>​没错！ 我就是那个super man！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​	嘿，欢迎来到小徐的博客！&lt;/p&gt;
+&lt;p&gt;​	我猜你不知道我是做什么的，嘿嘿！&lt;/p&gt;
+&lt;p&gt;​	让我来告诉你，我是一名XXX，致力于拯救宇宙，保护世界万千美少女，那么现在你一定知道我是睡咯。&lt;/p&gt;
+&lt;p&gt;​	没错！ 我就是那个super man！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
